@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Sai Nikhila Indirala
 - 👀 I’m interested in Ethical Hacking
+- learning Machine learning 
 - 🌱 I’m currently Learning Penatration Testing
-- 💞️ I’m looking to collaborate on Cyber Security Projects
+- 💞️ I’m looking to collaborate on Cyber Security Projects and machine learning projects
 - 📫 How to reach me Mail:sainikhilaindhirala424@gmail.com
 
 <!---
