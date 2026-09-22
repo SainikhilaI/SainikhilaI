@@ -3,7 +3,7 @@
 - learning Machine learning 
 - 🌱 I’m currently Learning Penatration Testing
 - 💞️ I’m looking to collaborate on Cyber Security Projects and machine learning projects
-- 📫 How to reach me Mail:sainikhilaindhirala424@gmail.com
+- 📫 How to reach me Mail:nikhilaindirala@gmail.com
 
 <!---
 SainikhilaI/SainikhilaI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
